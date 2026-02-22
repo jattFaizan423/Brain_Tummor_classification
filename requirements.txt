@@ -28,4 +28,3 @@ nibabel
 # For environment management / reproducibility
 python-dotenv
 
-opencv-python
