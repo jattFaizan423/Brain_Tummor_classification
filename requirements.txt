@@ -1,0 +1,29 @@
+# Data manipulation
+numpy
+pandas
+
+# Image processing
+opencv-python
+Pillow
+scikit-image
+
+# Machine Learning / Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Data visualization
+matplotlib
+seaborn
+
+# Utilities
+scikit-learn
+tqdm
+h5py
+
+# Optional: for handling medical images (.nii/.nii.gz)
+nibabel
+
+# For environment management / reproducibility
+python-dotenv
