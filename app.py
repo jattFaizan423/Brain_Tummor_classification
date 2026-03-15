@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 # ---------------- PAGE CONFIG ----------------
-st.set_page_config(page_title="Brain Tumor Detection", layout="centered")
+st.set_page_config(page_title="Brain Tumor Classification", layout="centered")
 
 # ---------------- CUSTOM DESIGN ----------------
 st.markdown("""
